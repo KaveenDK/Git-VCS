@@ -2,4 +2,5 @@ Fourth Day content
 ====================
 
 1. javascript
-2. java
+2. TypeScript
+
